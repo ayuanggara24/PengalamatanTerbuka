@@ -23,3 +23,4 @@ void main()
 		printf("\n Apakah anda mau lanjut(Y/N");
 		ans=getch();
 	}
+	while(ans=='y');
