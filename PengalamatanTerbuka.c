@@ -19,3 +19,4 @@ void main()
 		printf("\n Masukkan Angka ");
 		scanf("%d",&num);
 		key=create(num);
+		linear_prob(a,key,num);
