@@ -34,3 +34,5 @@ int create(int num)
 		key=num%10;
  		return key;
 	}
+
+void linear_prob(int a[MAX],int key,int num)
