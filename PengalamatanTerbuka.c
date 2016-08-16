@@ -15,3 +15,5 @@ void main()
 		for(i=0;i<MAX;i++)
 		a[i]=-1;
 	do
+	{
+		printf("\n Masukkan Angka ");
