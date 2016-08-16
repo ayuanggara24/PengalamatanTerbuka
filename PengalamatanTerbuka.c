@@ -51,3 +51,10 @@ void linear_prob(int a[MAX],int key,int num)
 		count++;
 		i++;
 	} 	
+			if(count==MAX)
+	{
+		printf("\n\n Hash Table adalah Fu;;");
+		display(a); 
+		getch();
+		exit(1);
+	}
