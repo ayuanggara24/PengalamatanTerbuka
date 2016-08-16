@@ -12,3 +12,5 @@ void main()
 		void linear_prob(int [],int,int),display(int []);
 //clrscr();
 		printf("\n Collision Handling By Linaer Probling");
+		for(i=0;i<MAX;i++)
+		a[i]=-1;
