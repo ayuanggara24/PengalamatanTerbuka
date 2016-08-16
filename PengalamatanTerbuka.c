@@ -58,3 +58,6 @@ void linear_prob(int a[MAX],int key,int num)
 		getch();
 		exit(1);
 	}
+	
+		for(i=key+1;i<MAX;i++)
+		if(a[i]==-1) 
