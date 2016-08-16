@@ -85,6 +85,5 @@ void display(int a[MAX])
 		printf("\n\n The HAsh Table adalah....\n"); 
 		for(i=0;i<MAX;i++)
 		printf("\n %d %d",i,a[i]);
- 
 }
  
