@@ -77,4 +77,6 @@ void linear_prob(int a[MAX],int key,int num)
 		}
 	}
 }
+
+void display(int a[MAX])
  
