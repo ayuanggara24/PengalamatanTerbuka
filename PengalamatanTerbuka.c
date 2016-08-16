@@ -27,3 +27,5 @@ void main()
 		display(a); 
 		getch();
 }
+
+int create(int num)
