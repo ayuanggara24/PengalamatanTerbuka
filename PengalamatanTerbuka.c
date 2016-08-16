@@ -45,3 +45,9 @@ void linear_prob(int a[MAX],int key,int num)
 	else
 	{	 
 		i=0;
+	while(i<MAX)
+ 	{ 
+ 		if(a[i]!=-1)
+		count++;
+		i++;
+	} 	
