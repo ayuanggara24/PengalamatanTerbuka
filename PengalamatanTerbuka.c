@@ -29,3 +29,8 @@ void main()
 }
 
 int create(int num)
+	{	 
+		int key; 
+		key=num%10;
+ 		return key;
+	}
