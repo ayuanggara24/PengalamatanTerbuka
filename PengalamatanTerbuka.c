@@ -42,3 +42,6 @@ void linear_prob(int a[MAX],int key,int num)
 		flag=0; 
 		if(a[key]==-1)
 		a[key]=num;
+	else
+	{	 
+		i=0;
