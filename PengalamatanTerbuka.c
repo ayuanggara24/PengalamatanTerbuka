@@ -17,3 +17,5 @@ void main()
 	do
 	{
 		printf("\n Masukkan Angka ");
+		scanf("%d",&num);
+		key=create(num);
