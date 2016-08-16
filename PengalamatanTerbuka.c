@@ -67,3 +67,14 @@ void linear_prob(int a[MAX],int key,int num)
 		flag=1;
 		break;
 	}
+		for(i=0;i<key&&flag==0;i++)
+			if(a[i]==-1)
+	{ 
+			a[i]=num; 
+			flag=1;
+			break;
+ 
+		}
+	}
+}
+ 
