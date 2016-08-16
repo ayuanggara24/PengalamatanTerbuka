@@ -14,3 +14,4 @@ void main()
 		printf("\n Collision Handling By Linaer Probling");
 		for(i=0;i<MAX;i++)
 		a[i]=-1;
+	do
