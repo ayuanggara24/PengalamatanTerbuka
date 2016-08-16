@@ -24,3 +24,4 @@ void main()
 		ans=getch();
 	}
 	while(ans=='y');
+		display(a); 
