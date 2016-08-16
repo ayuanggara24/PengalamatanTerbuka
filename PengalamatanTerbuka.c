@@ -36,3 +36,5 @@ int create(int num)
 	}
 
 void linear_prob(int a[MAX],int key,int num)
+{ 
+		int flag,i,count=0;
