@@ -79,4 +79,12 @@ void linear_prob(int a[MAX],int key,int num)
 }
 
 void display(int a[MAX])
+{ 
+		int i;
+ 
+		printf("\n\n The HAsh Table adalah....\n"); 
+		for(i=0;i<MAX;i++)
+		printf("\n %d %d",i,a[i]);
+ 
+}
  
