@@ -38,3 +38,7 @@ int create(int num)
 void linear_prob(int a[MAX],int key,int num)
 { 
 		int flag,i,count=0;
+		void display(int a[]); 
+		flag=0; 
+		if(a[key]==-1)
+		a[key]=num;
