@@ -20,3 +20,6 @@ void main()
 		scanf("%d",&num);
 		key=create(num);
 		linear_prob(a,key,num);
+		printf("\n Apakah anda mau lanjut(Y/N");
+		ans=getch();
+	}
